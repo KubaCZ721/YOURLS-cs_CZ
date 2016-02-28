@@ -14,7 +14,7 @@ define( 'YOURLS_LANG', 'cs_CZ' );
 Následně přejděte do `user/languages`, a tam nahrajte soubory cs_CZ.po a cs_CZ.mo
 # Credits
 
-© turekuba.cz
+© http://turekuba.cz
 
 # License
 
